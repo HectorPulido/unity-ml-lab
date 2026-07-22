@@ -1,5 +1,5 @@
 # IMITATION LEARNING IN UNITY
-What if we record all the information in a game, and we record the player actions, then we train a neural network with that data? Thats what this is! <b>This is a implementation of [Vectorized neural network](https://github.com/HectorPulido/Vectorized-multilayer-neural-network) </b>in unity, an open source project that uses neural networks and backpropagation in C#, and train it via stochastic gradient descend using as examples human meditions  <br/>
+What if we record all the information in a game, and we record the player actions, then we train a neural network with that data? Thats what this is! <b>This is a implementation of [Vectorized neural network](https://github.com/HectorPulido/Machine-learning-Framework-Csharp/tree/master/SimpleLinearAlgebra/examples/MultiLayerPerceptron) </b>in unity, an open source project that uses neural networks and backpropagation in C#, and train it via stochastic gradient descend using as examples human meditions  <br/>
 
 ### This project is still under development and is highly experimental
 
@@ -107,12 +107,12 @@ Those are three Genetics Algorithm using unity, The First one is a simple algori
 https://github.com/HectorPulido/Three-Genetics-Algorithm-Using-Unity
 ### Vectorized Multilayer Neural Network from scratch
 This is a simple MultiLayer perceptron made with Simple Linear Algebra for C# , is a neural network based on This Algorithm but generalized. This neural network can calcule logic doors like Xor Xnor And Or via Stochastic gradient descent backpropagation with Sigmoid as Activation function, but can be used to more complex problems. <br/>
-https://github.com/HectorPulido/Vectorized-multilayer-neural-network
+https://github.com/HectorPulido/Machine-learning-Framework-Csharp/tree/master/SimpleLinearAlgebra/examples/MultiLayerPerceptron
 
 ## LICENCE
 This project contains a copy of:
 * Unity Standar assets
-* Simple linear algebra https://github.com/HectorPulido/Simple_Linear_Algebra
+* Simple linear algebra https://github.com/HectorPulido/Machine-learning-Framework-Csharp/tree/master/SimpleLinearAlgebra
 
 Everything else is MIT licensed
 

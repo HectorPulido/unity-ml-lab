@@ -85,24 +85,24 @@ Those are three Genetics Algorithm using unity, The First one is a simple algori
 https://github.com/HectorPulido/Three-Genetics-Algorithm-Using-Unity
 ### Vectorized Multilayer Neural Network from scratch
 This is a simple MultiLayer perceptron made with Simple Linear Algebra for C# , is a neural network based on This Algorithm but generalized. This neural network can calcule logic doors like Xor Xnor And Or via Stochastic gradient descent backpropagation with Sigmoid as Activation function, but can be used to more complex problems. <br/>
-https://github.com/HectorPulido/Vectorized-multilayer-neural-network
+https://github.com/HectorPulido/Machine-learning-Framework-Csharp/tree/master/SimpleLinearAlgebra/examples/MultiLayerPerceptron
 
 ## Where can i learn more
 - On my Youtube channel (spanish) are a lot of information about Machine learning and Neural networks
 - https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw
 - This convolutional neural network (Pretty hardcore)
-- https://github.com/HectorPulido/Convolutional-Neural-Network-From-Scratch
+- https://github.com/HectorPulido/Machine-learning-Framework-Csharp/tree/master/SimpleLinearAlgebra/examples/ConvolutionalNeuralNetwork
 - This example of Genetics Algorithm on unity
 - https://github.com/HectorPulido/Three-Genetics-Algorithm-Using-Unity
 - You can also look at the Multilayer perceptron 
-- https://github.com/HectorPulido/Vectorized-multilayer-neural-network
+- https://github.com/HectorPulido/Machine-learning-Framework-Csharp/tree/master/SimpleLinearAlgebra/examples/MultiLayerPerceptron
 - Or The monolayer Example (Simpler)
-- https://github.com/HectorPulido/Simple-vectorized-mono-layer-perceptron
+- https://github.com/HectorPulido/Machine-learning-Framework-Csharp/tree/master/SimpleLinearAlgebra/examples/MonoLayerPerceptron
 - Or Look at a Non Vectorized multilayer perceptronExample
 - https://github.com/HectorPulido/Multi-layer-perceptron
 
 ## LICENCE
 This project contains a copy of:
-* Simple linear algebra https://github.com/HectorPulido/Simple_Linear_Algebra
+* Simple linear algebra https://github.com/HectorPulido/Machine-learning-Framework-Csharp/tree/master/SimpleLinearAlgebra
 
 Everything else is MIT licensed
